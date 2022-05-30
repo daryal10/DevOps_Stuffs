@@ -1,0 +1,6 @@
+#This file ignores below format files
+
+*.tmp
+
+~$*.*
+
